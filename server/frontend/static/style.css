@@ -3,6 +3,11 @@ img{
   align-self: center;
 }
 
+h1{
+    font-weight: bolder;
+    font-style: oblique;
+}
+
 .card{
   border: rgb(103, 102, 105) 3px solid;
   display: flex;  
